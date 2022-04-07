@@ -486,7 +486,6 @@
 
 <style>
 @import "./assets/css/base.css";
-@import url("http://fonts.cdnfonts.com/css/proxima-nova-rg-2");
 html {
   color: #222;
   font-size: 1em;
